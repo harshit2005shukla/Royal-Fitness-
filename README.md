@@ -49,11 +49,7 @@ The website is fully responsive and adapts seamlessly to different screen sizes,
 
 ## 🌐 Live Demo
 
-Add your deployed website link here:
-
-```
-https://your-live-demo-link.com
-```
+Add your deployed website link here:https://miniprojectimsec47.netlify.app/
 
 ## 👨‍💻 Author
 
