@@ -30,13 +30,6 @@ Royal-Fitness
 └── README.md
 ```
 
-## 📸 Screenshots
-
-Add screenshots of your project here.
-
-### Home Page
-![Royal Fitness Screenshot](https://via.placeholder.com/800x400)
-
 ## 🎯 Purpose
 
 The main goal of this project is to create a professional fitness website that can be used by gyms and fitness centers to establish an online presence and attract potential customers.
