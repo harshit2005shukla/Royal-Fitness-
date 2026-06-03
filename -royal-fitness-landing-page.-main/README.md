@@ -1,54 +1,78 @@
-# 🏋️ Royal Fitness – Frontend Mini Project
+# 🏋️ Royal Fitness
 
-A **responsive landing page** for a fitness brand built using **pure HTML and CSS**.  
-This project was created as a mini project to practice frontend development basics such as layout design, typography, flexbox, and responsive design.
-
+A modern and responsive fitness website built using HTML, CSS, and JavaScript. This project is designed for gyms, fitness centers, and personal trainers to showcase their services, training programs, and fitness facilities through an attractive and user-friendly interface.
 ---
 
 ## 🌐 Live Demo
 👉 [View the live site here](https://miniprojectimsec47.netlify.app/)
 
----
 
-## 📌 Features
-- ✅ Clean and simple **navigation bar**
-- ✅ Eye-catching **hero section** with call-to-action
-- ✅ **Services section** showcasing fitness programs
-- ✅ **Pricing plans** (Basic, Pro, Premium)
-- ✅ **Client testimonials** with images and quotes
-- ✅ **Footer section** with quick links
-- ✅ Fully responsive design (works on desktop & mobile)
+## 🚀 Features
 
----
+- Responsive design for desktop, tablet, and mobile devices
+- Modern and clean user interface
+- Attractive landing page
+- Gym services and training sections
+- Interactive navigation menu
+- Smooth user experience
+- Optimized layout for fitness businesses
 
-## 🛠️ Tech Stack
-- **HTML5**
-- **CSS3** (Flexbox, Grid, Media Queries)
+## 🛠️ Technologies Used
 
----
+- HTML5
+- CSS3
+- JavaScript
 
-## 📂 Folder Structure
-royal-fitness/
-├── index.html        # Main landing page<br>
-├── style.css         # Stylesheet<br>
-├── images/           # Logos, banners, testimonial photos<br>
-└── README.md         # Project documentation<br>
+## 📂 Project Structure
 
----
+```
+Royal-Fitness
+│
+├── index.html
+├── style.css
+├── script.js
+├── images/
+└── README.md
+```
 
-## 🚀 Getting Started
+## 📸 Screenshots
 
-### 1. Clone the repository<br>
-git clone https://github.com/trivesh1/-royal-fitness-landing-page.<br>
-cd royal-fitness<br>
-Simply open index.html in your browser.<br>
-📸 Preview <br>
- <br>
- <img width="1433" height="805" alt="Screenshot 2025-08-19 at 7 56 25 AM" src="https://github.com/user-attachments/assets/aaa8ccb3-b004-4531-a90b-4f6d1efc98c3" />
+Add screenshots of your project here.
 
- 📖 Disclaimer
+### Home Page
+![Royal Fitness Screenshot](https://via.placeholder.com/800x400)
 
-This project is made only for educational purposes and is not affiliated with any real fitness brand.
-All assets used are free or self-created.
+## 🎯 Purpose
 
+The main goal of this project is to create a professional fitness website that can be used by gyms and fitness centers to establish an online presence and attract potential customers.
 
+## 📱 Responsive Design
+
+The website is fully responsive and adapts seamlessly to different screen sizes, ensuring a smooth browsing experience across all devices.
+
+## 🔮 Future Improvements
+
+- BMI Calculator
+- Membership Registration Form
+- Online Class Booking
+- Trainer Profiles
+- Fitness Blog Section
+- Dark Mode Support
+
+## 🌐 Live Demo
+
+Add your deployed website link here:
+
+```
+https://your-live-demo-link.com
+```
+
+## 👨‍💻 Author
+
+**Harshit Shukla**
+
+- GitHub: https://github.com/harshit2005shukla
+
+## ⭐ Support
+
+If you found this project useful, consider giving it a ⭐ on GitHub.
